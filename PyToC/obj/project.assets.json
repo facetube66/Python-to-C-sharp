@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashLib/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/HashLib.dll": {}
+        },
+        "runtime": {
+          "lib/net40/HashLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashLib/2.0.1": {
+      "sha512": "B6cMEP6s+ucLpzY6NAByHf8GF/pqm+9YqFS9d4+qEm73VY+r/q1xIwdBwMoVL/SX35HPJFKupaQvgtL9xnf9tA==",
+      "type": "package",
+      "path": "hashlib/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hashlib.2.0.1.nupkg.sha512",
+        "hashlib.nuspec",
+        "lib/net40/HashLib.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HashLib >= 2.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Satan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Blood\\Python to C#\\PyToC\\PyToC\\PyToC.csproj",
+      "projectName": "PyToC",
+      "projectPath": "F:\\Blood\\Python to C#\\PyToC\\PyToC\\PyToC.csproj",
+      "packagesPath": "C:\\Users\\Satan\\.nuget\\packages\\",
+      "outputPath": "F:\\Blood\\Python to C#\\PyToC\\PyToC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Satan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "HashLib": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HashLib 2.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "HashLib",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

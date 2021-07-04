@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PyToC/1.0.0": {
+        "dependencies": {
+          "HashLib": "2.0.1"
+        },
+        "runtime": {
+          "PyToC.dll": {}
+        }
+      },
+      "HashLib/2.0.1": {
+        "runtime": {
+          "lib/net40/HashLib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PyToC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HashLib/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B6cMEP6s+ucLpzY6NAByHf8GF/pqm+9YqFS9d4+qEm73VY+r/q1xIwdBwMoVL/SX35HPJFKupaQvgtL9xnf9tA==",
+      "path": "hashlib/2.0.1",
+      "hashPath": "hashlib.2.0.1.nupkg.sha512"
+    }
+  }
+}

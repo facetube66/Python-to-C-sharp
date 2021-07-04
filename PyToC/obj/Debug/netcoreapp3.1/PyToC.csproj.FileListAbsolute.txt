@@ -1,0 +1,15 @@
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.exe
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.deps.json
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.runtimeconfig.json
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.runtimeconfig.dev.json
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.dll
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\PyToC.pdb
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.csprojAssemblyReference.cache
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.AssemblyInfoInputs.cache
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.AssemblyInfo.cs
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.csproj.CoreCompileInputs.cache
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.dll
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.pdb
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.genruntimeconfig.cache
+F:\Blood\Python to C#\PyToC\PyToC\bin\Debug\netcoreapp3.1\HashLib.dll
+F:\Blood\Python to C#\PyToC\PyToC\obj\Debug\netcoreapp3.1\PyToC.csproj.CopyComplete
